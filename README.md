@@ -20,6 +20,4 @@ um desenvolvedor apaixonado por criar soluções inovadoras por meio de código.
 
 > "Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito." - Aristóteles
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api?username=matheusantoni0&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantoni0p&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantoni0&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
