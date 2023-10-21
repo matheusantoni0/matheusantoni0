@@ -1,6 +1,6 @@
 # Olá! Eu sou o Matheus! :vulcan_salute:
 
-um desenvolvedor apaixonado por criar soluções inovadoras por meio de código. Comecei minha jornada na programação aos 12 anos, e desde então, venho construindo uma sólida base de conhecimento e experiência. Com 2 anos de atuação no mercado, estou ansioso para abraçar novos desafios e continuar crescendo no mundo da tecnologia
+Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por meio de código. Comecei minha jornada na programação aos 12 anos, e desde então, venho construindo uma sólida base de conhecimento e experiência.
 
 ## :point_right: Para me encontrar:
 
@@ -18,6 +18,5 @@ um desenvolvedor apaixonado por criar soluções inovadoras por meio de código.
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-> "Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito." - Aristóteles
-
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantoni0&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+> "Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito." - Aristóteles
