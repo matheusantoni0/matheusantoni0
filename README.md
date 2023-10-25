@@ -4,7 +4,7 @@ Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por mei
 
 <br />
  
-<h2 align='center'>📧 Find me </h2>
+<h2>📧 Find me </h2>
 <p align='center'>
  <a href = "https://www.linkedin.com/in/matheus-antonio-us/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
@@ -21,7 +21,7 @@ Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por mei
 </p>
 
 <br />
-<h2 align='center'>🔧 Techs 🪛</h2>
+<h2>🔧 Techs 🪛</h2>
 <div align='center'>
   <img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" />
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" />
