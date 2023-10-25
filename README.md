@@ -1,13 +1,14 @@
 # Olá! Eu sou o Matheus! :vulcan_salute:
 
 Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por meio de código. Comecei minha jornada na programação aos 12 anos, e desde então, venho construindo uma sólida base de conhecimento e experiência.
-<p>
  <a href = "https://www.linkedin.com/in/matheus-antonio-us/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
  </a>
  <a href="mailto:matheus.antonio@hotmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email logo" />
  </a>
+ > "Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito." - Aristóteles
+
 <br />
 
 <br />
@@ -27,5 +28,3 @@ Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por mei
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantoni0&layout=compact&theme=tokyonight&langs_count=5" />
   </a>
 </div>
-
-> "Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito." - Aristóteles
