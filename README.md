@@ -25,12 +25,12 @@ Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por mei
 <div align='center'>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="LinkedIn logo" />
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="LinkedIn logo" />
+ <img src="https://img.shields.io/badge/NodeJs-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="LinkedIn logo" />
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="LinkedIn logo" />
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="LinkedIn logo" />
  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="LinkedIn logo" />
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="LinkedIn logo" />
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="LinkedIn logo" />
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="LinkedIn logo" />
 </div>
 <br />
  <div align='center'> 
