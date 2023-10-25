@@ -23,20 +23,18 @@ Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por mei
 <br />
 <h2 align='center'>🔧 Techs 🪛</h2>
 <div align='center'>
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="LinkedIn logo" />
- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="LinkedIn logo" />
- <img src="https://img.shields.io/badge/NodeJs-323330?style=for-the-badge&logo=node&logoColor=F7DF1E" alt="LinkedIn logo" />
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="LinkedIn logo" />
- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="LinkedIn logo" />
- <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="LinkedIn logo" />
- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="LinkedIn logo" />
- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="LinkedIn logo" />
+  <img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" />
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" />
+ <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" />
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" />
 </div>
 <br />
  <div align='center'> 
   <a href="https://github.com/matheusantoni0">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bzenky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzenky&layout=compact&theme=tokyonight&langs_count=5" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusantoni0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantoni0&layout=compact&theme=tokyonight&langs_count=5" />
   </a>
 </div>
 
