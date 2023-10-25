@@ -1,10 +1,6 @@
 # Olá! Eu sou o Matheus! :vulcan_salute:
 
 Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por meio de código. Comecei minha jornada na programação aos 12 anos, e desde então, venho construindo uma sólida base de conhecimento e experiência.
-
-<br />
- 
-<h2>📧 Find me </h2>
 <p align='center'>
  <a href = "https://www.linkedin.com/in/matheus-antonio-us/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
@@ -12,13 +8,7 @@ Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por mei
  <a href="mailto:matheus.antonio@hotmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email logo" />
  </a>
- <a href="https://www.youtube.com/channel/UCCe8rx30_1ZJ6M4oPzSJHiA">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
- </a>
- <a href="https://www.bzenky.dev">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
- </a>
-</p>
+<br />
 
 <br />
 <h2>🔧 Techs 🪛</h2>
