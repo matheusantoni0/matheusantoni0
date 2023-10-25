@@ -27,17 +27,26 @@ Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por mei
 <br />
 
 <h2 align='center'>🔧 Techs 🪛</h2>
+ 
 <div align='center'>
+ 
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
  ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+ ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
- ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-</div> 
+ 
+</div>
 
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantoni0&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+ <div align='center'> 
+  <a href="https://github.com/matheusantoni0">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bzenky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzenky&layout=compact&theme=tokyonight&langs_count=5" />
+  </a>
+</div>
+
 > "Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito." - Aristóteles
