@@ -1,18 +1,17 @@
 # Olá! Eu sou o Matheus! :vulcan_salute:
 
 Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por meio de código. Comecei minha jornada na programação aos 12 anos, e desde então, venho construindo uma sólida base de conhecimento e experiência.
- <a href = "https://www.linkedin.com/in/matheus-antonio-us/">
+
+> "Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito." - Aristóteles
+<p>
+  <a href = "https://www.linkedin.com/in/matheus-antonio-us/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
  </a>
  <a href="mailto:matheus.antonio@hotmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email logo" />
  </a>
- > "Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um modo de agir, mas um hábito." - Aristóteles
-
-<br />
-
-<br />
-<h2>🔧 Techs 🪛</h2>
+</p>
+<h2>Techs 🪛</h2>
 <div align='center'>
   <img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo" />
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" />
