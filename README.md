@@ -1,7 +1,7 @@
 # Olá! Eu sou o Matheus! :vulcan_salute:
 
 Sou um Engenheiro de Software apaixonado por criar soluções inovadoras por meio de código. Comecei minha jornada na programação aos 12 anos, e desde então, venho construindo uma sólida base de conhecimento e experiência.
-<p align='center'>
+<p>
  <a href = "https://www.linkedin.com/in/matheus-antonio-us/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
  </a>
