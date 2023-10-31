@@ -20,8 +20,3 @@ Sou um desenvolvedor Full Stack, e engenhiero de software em formação, apaixon
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" />
 </div>
 <br />
- <div align='center'> 
-  <a href="https://github.com/matheusantoni0">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusantoni0&layout=compact&theme=tokyonight&langs_count=5" />
-  </a>
-</div>
