@@ -1,6 +1,6 @@
 # Olá! Eu sou o Matheus! :vulcan_salute:
 
-Sou um desenvolvedor Full Stack, e engenhiero de software em formação, apaixonado por criar soluções inovadoras por meio de código. Comecei minha jornada na programação aos 12 anos, e desde então, venho construindo uma sólida base de conhecimento e experiência.
+Sou um desenvolvedor full Stack, engenheiro de software em curso, apaixonado por criar soluções inovadoras por meio de código. Comecei minha jornada na programação aos 12 anos, e desde então, venho construindo uma sólida base de conhecimento e experiência.
 
 <p>
   <a href = "https://www.linkedin.com/in/matheus-antonio-us/">
